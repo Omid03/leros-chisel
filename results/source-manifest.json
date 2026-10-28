@@ -1,0 +1,158 @@
+[
+  {
+    "path": "src/main/scala/Leros/ALU.scala",
+    "original_sha256": "f783c53eb92799039c81da56ed3b078f4d70eeb28ad630ea16ad14f5fc01f798",
+    "packaged_sha256": "f783c53eb92799039c81da56ed3b078f4d70eeb28ad630ea16ad14f5fc01f798",
+    "change": "none"
+  },
+  {
+    "path": "src/main/scala/Leros/ARReg.scala",
+    "original_sha256": "af9f78643350c4f685d8213b0e2f01bfa4bd158fde736ea62208061a4f0856f3",
+    "packaged_sha256": "af9f78643350c4f685d8213b0e2f01bfa4bd158fde736ea62208061a4f0856f3",
+    "change": "none"
+  },
+  {
+    "path": "src/main/scala/Leros/AReg.scala",
+    "original_sha256": "18838123552e46af16eee42060b48182c03ffbe210d9f7b66708ab0827b151e1",
+    "packaged_sha256": "18838123552e46af16eee42060b48182c03ffbe210d9f7b66708ab0827b151e1",
+    "change": "none"
+  },
+  {
+    "path": "src/main/scala/Leros/Adder.scala",
+    "original_sha256": "d895694ef051c9b8035019719357a66433343566459754567fa153e89fb355c3",
+    "packaged_sha256": "d895694ef051c9b8035019719357a66433343566459754567fa153e89fb355c3",
+    "change": "none"
+  },
+  {
+    "path": "src/main/scala/Leros/Controller.scala",
+    "original_sha256": "d7378846d238679dfa66b20a9885bddf0ebf391b90b34680fbab4bca724c056d",
+    "packaged_sha256": "d7378846d238679dfa66b20a9885bddf0ebf391b90b34680fbab4bca724c056d",
+    "change": "none"
+  },
+  {
+    "path": "src/main/scala/Leros/DataMemory.scala",
+    "original_sha256": "b5fc8caae141c3dcfc239657d4eaf8a26155061785b1bd8227568b60be736901",
+    "packaged_sha256": "f71a09dd703bd8f8b32075c0eabc574209a3027d139ac5e56ce8a9810dde4864",
+    "change": "memory initialization path only"
+  },
+  {
+    "path": "src/main/scala/Leros/DataPath.scala",
+    "original_sha256": "50d256bec9e15ffd38826528f751bca298108c322ab188e2fbb58bcfb6436c50",
+    "packaged_sha256": "50d256bec9e15ffd38826528f751bca298108c322ab188e2fbb58bcfb6436c50",
+    "change": "none"
+  },
+  {
+    "path": "src/main/scala/Leros/InstructionMemory.scala",
+    "original_sha256": "bca77071e6634e27070ad3b867524708188c2a1cd9d04f3a10934cc79f0683e4",
+    "packaged_sha256": "7644857026805b73bc6998dab4e8d54abf1f2bab719de385420d624f7d76b00e",
+    "change": "memory initialization path only"
+  },
+  {
+    "path": "src/main/scala/Leros/Leros.scala",
+    "original_sha256": "836e3d02de810a5443a8c7a7355ada608d14fbe25bcb34aa60aa07a7e5ca7575",
+    "packaged_sha256": "836e3d02de810a5443a8c7a7355ada608d14fbe25bcb34aa60aa07a7e5ca7575",
+    "change": "none"
+  },
+  {
+    "path": "src/main/scala/Leros/PCReg.scala",
+    "original_sha256": "38593bdce60e446a9259a6cae665ad56f1591d91a6c18e74b82088b28e9e1f68",
+    "packaged_sha256": "38593bdce60e446a9259a6cae665ad56f1591d91a6c18e74b82088b28e9e1f68",
+    "change": "none"
+  },
+  {
+    "path": "src/main/scala/Leros/RegFile.scala",
+    "original_sha256": "ce22f365854ad9956307941aea86f64762ef952cf30a2ad634c26a33b470f793",
+    "packaged_sha256": "ce22f365854ad9956307941aea86f64762ef952cf30a2ad634c26a33b470f793",
+    "change": "none"
+  },
+  {
+    "path": "src/main/scala/Leros/Shl.scala",
+    "original_sha256": "81f51889da577cb35425da956c62e4728bf9b65e775e4fc77fb8a3133bbfac56",
+    "packaged_sha256": "81f51889da577cb35425da956c62e4728bf9b65e775e4fc77fb8a3133bbfac56",
+    "change": "none"
+  },
+  {
+    "path": "src/main/scala/Leros/SignExtend.scala",
+    "original_sha256": "e6300402ac0e24196a2f76f57b5b05dfff6c7270826af525d55160e0f3c97cf5",
+    "packaged_sha256": "e6300402ac0e24196a2f76f57b5b05dfff6c7270826af525d55160e0f3c97cf5",
+    "change": "none"
+  },
+  {
+    "path": "src/test/scala/Leros/ALUTest.scala",
+    "original_sha256": "3e21f531ba2fe86a128819f322aca6460fc66609f6d6f5a243268d8b45d04e54",
+    "packaged_sha256": "3e21f531ba2fe86a128819f322aca6460fc66609f6d6f5a243268d8b45d04e54",
+    "change": "none"
+  },
+  {
+    "path": "src/test/scala/Leros/ARRegTest.scala",
+    "original_sha256": "9687176c7bff25435e6e2ba4c7f29efb20186dc491452a957ae002de9f33d311",
+    "packaged_sha256": "9687176c7bff25435e6e2ba4c7f29efb20186dc491452a957ae002de9f33d311",
+    "change": "none"
+  },
+  {
+    "path": "src/test/scala/Leros/ARegTest.scala",
+    "original_sha256": "798e43e59a168d74e51ea0d0d70e4646b9fdbadfc614c9609fb16b2d9f54fa82",
+    "packaged_sha256": "798e43e59a168d74e51ea0d0d70e4646b9fdbadfc614c9609fb16b2d9f54fa82",
+    "change": "none"
+  },
+  {
+    "path": "src/test/scala/Leros/AdderTest.scala",
+    "original_sha256": "4e0092be9efe00e20fed76af3822b4b78d8b55b68ecc20822df4369ee6d4e198",
+    "packaged_sha256": "4e0092be9efe00e20fed76af3822b4b78d8b55b68ecc20822df4369ee6d4e198",
+    "change": "none"
+  },
+  {
+    "path": "src/test/scala/Leros/ControllerTest.scala",
+    "original_sha256": "e93eeccc9689d097a1b6f82fe4818a9053c2a2261ec05a4e3a900dbe7cba5920",
+    "packaged_sha256": "e93eeccc9689d097a1b6f82fe4818a9053c2a2261ec05a4e3a900dbe7cba5920",
+    "change": "none"
+  },
+  {
+    "path": "src/test/scala/Leros/DataMemoryTest.scala",
+    "original_sha256": "313af7a2f5cb8d41b5707a96319fb73d20e6b3245d0d6d4b3c59ee9fcc3ab4ae",
+    "packaged_sha256": "313af7a2f5cb8d41b5707a96319fb73d20e6b3245d0d6d4b3c59ee9fcc3ab4ae",
+    "change": "none"
+  },
+  {
+    "path": "src/test/scala/Leros/DataPathTest.scala",
+    "original_sha256": "3222d7bd34acb30a6bf3bd47d451013ec9451d58cec23d13fe624ed4aef753bf",
+    "packaged_sha256": "3222d7bd34acb30a6bf3bd47d451013ec9451d58cec23d13fe624ed4aef753bf",
+    "change": "none"
+  },
+  {
+    "path": "src/test/scala/Leros/InstructionMemoryTest.scala",
+    "original_sha256": "cd2b82f0c00d046884e3ca562a2ccf8d8dc0ad78eb1632dc86bff433b9ed69f3",
+    "packaged_sha256": "cd2b82f0c00d046884e3ca562a2ccf8d8dc0ad78eb1632dc86bff433b9ed69f3",
+    "change": "none"
+  },
+  {
+    "path": "src/test/scala/Leros/LerosTest.scala",
+    "original_sha256": "38af63943acdd636c827840f28f78e7a52634f4fbcecca012d3537cf4ce2a58b",
+    "packaged_sha256": "38af63943acdd636c827840f28f78e7a52634f4fbcecca012d3537cf4ce2a58b",
+    "change": "none"
+  },
+  {
+    "path": "src/test/scala/Leros/PCRegTest.scala",
+    "original_sha256": "81e02e0b60a164769aa4b0253cc5442476482527f2d7f209ab4c788033a4f684",
+    "packaged_sha256": "81e02e0b60a164769aa4b0253cc5442476482527f2d7f209ab4c788033a4f684",
+    "change": "none"
+  },
+  {
+    "path": "src/test/scala/Leros/RegFileTest.scala",
+    "original_sha256": "2ebd8b80205e08700923782340ad89d5f0e5faed75f0d54aa0d85321bade9c2c",
+    "packaged_sha256": "2ebd8b80205e08700923782340ad89d5f0e5faed75f0d54aa0d85321bade9c2c",
+    "change": "none"
+  },
+  {
+    "path": "src/test/scala/Leros/ShlTest.scala",
+    "original_sha256": "707d2c47de591f6b2cbaebd7a17f22f3275a68adc653e0ded3392430608910bd",
+    "packaged_sha256": "707d2c47de591f6b2cbaebd7a17f22f3275a68adc653e0ded3392430608910bd",
+    "change": "none"
+  },
+  {
+    "path": "src/test/scala/Leros/SignExtendTest.scala",
+    "original_sha256": "a36869365abd8de60ecc98908422977570149db53dc32fa8349a74c90b6eecd7",
+    "packaged_sha256": "a36869365abd8de60ecc98908422977570149db53dc32fa8349a74c90b6eecd7",
+    "change": "none"
+  }
+]

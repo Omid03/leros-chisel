@@ -1,0 +1,14 @@
+PCReg.sv
+InstructionMemory.sv
+RegisterFile.sv
+ALU.sv
+AReg.sv
+ARReg.sv
+Adder.sv
+mem_65536x16.sv
+DataMemory.sv
+Shl.sv
+SignExtend.sv
+DataPath.sv
+Controller.sv
+Leros.sv

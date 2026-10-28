@@ -1,0 +1,94 @@
+[debug] > Exec(early(addDefaultCommands), None, None)
+[debug] > Exec(addDefaultCommands, None, None)
+[debug] > Exec(early(initialize), None, None)
+[debug] > Exec(initialize, None, None)
+[debug] > Exec(early(addPluginSbtFile="""C:\Users\OMID\AppData\Local\Temp\idea.sbt"""), None, None)
+[debug] > Exec(addPluginSbtFile="""C:\Users\OMID\AppData\Local\Temp\idea.sbt""", None, None)
+[debug] > Exec(boot, None, None)
+[debug] > Exec(writeSbtVersion, None, None)
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.5.3 (Eclipse Adoptium Java 11.0.27)
+[debug] Load.defaultLoad until apply took 359.2907ms
+[debug]           Load.loadUnit: plugins took 80.9392ms
+[debug]           Load.loadUnit: defsScala took 0.2247ms
+[debug] [Loading] Scanning directory C:\Users\OMID\Desktop\TA\Chisel\Project_Leros\Leros\project
+[debug]             Load.loadUnit: mkEval took 5.8215ms
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in C:\Users\OMID\Desktop\TA\Chisel\Project_Leros\Leros\project, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 17.3156 ms
+[info] loading settings for project leros-build from idea.sbt ...
+[debug]               Load.resolveProject(leros-build) took 47.2094ms
+[debug]             Load.loadTransitive: finalizeProject(Project(id leros-build, base: C:\Users\OMID\Desktop\TA\Chisel\Project_Leros\Leros\project, plugins: List(<none>))) took 86.9178ms
+[debug] [Loading] Done in C:\Users\OMID\Desktop\TA\Chisel\Project_Leros\Leros\project, returning: (leros-build)
+[debug]           Load.loadUnit: loadedProjectsRaw took 301.9193ms
+[debug]           Load.loadUnit: cleanEvalClasses took 5.9739ms
+[debug]         Load.loadUnit(file:/C:/Users/OMID/Desktop/TA/Chisel/Project_Leros/Leros/project/, ...) took 394.1299ms
+[debug]       Load.apply: load took 528.0031ms
+[debug]       Load.apply: resolveProjects took 3.9862ms
+[debug]       Load.apply: finalTransforms took 62.8901ms
+[debug]       Load.apply: config.delegates took 13.082ms
+[debug]       Load.apply: Def.make(settings)... took 842.4971ms
+[debug]       Load.apply: structureIndex took 186.9874ms
+[debug]       Load.apply: mkStreams took 5.9543ms
+[info] loading project definition from C:\Users\OMID\Desktop\TA\Chisel\Project_Leros\Leros\project
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug]     Load.loadUnit: plugins took 2863.9305ms
+[debug]     Load.loadUnit: defsScala took 0.0042ms
+[debug] [Loading] Scanning directory C:\Users\OMID\Desktop\TA\Chisel\Project_Leros\Leros
+[debug]       Load.loadUnit: mkEval took 0.2556ms
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in C:\Users\OMID\Desktop\TA\Chisel\Project_Leros\Leros, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(org.jetbrains.sbt.StructurePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(org.jetbrains.sbt.IdeaShellPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(org.jetbrains.sbt.StructurePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(org.jetbrains.sbt.IdeaShellPlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.SemanticdbPlugin,sbt.plugins.JUnitXmlReportPlugin,org.jetbrains.sbt.IdeaShellPlugin,org.jetbrains.sbt.StructurePlugin,sbt.plugins.MiniDependencyTreePlugin)
+[debug] Plugins.deducer#function took 2.9645 ms
+[info] loading settings for project leros from build.sbt ...
+[debug]         Load.resolveProject(leros) took 32.9564ms
+[debug]       Load.loadTransitive: finalizeProject(Project(id leros, base: C:\Users\OMID\Desktop\TA\Chisel\Project_Leros\Leros, plugins: List(<none>))) took 36.4354ms
+[debug] [Loading] Done in C:\Users\OMID\Desktop\TA\Chisel\Project_Leros\Leros, returning: (leros)
+[debug]     Load.loadUnit: loadedProjectsRaw took 92.4486ms
+[debug]     Load.loadUnit: cleanEvalClasses took 1.9454ms
+[debug]   Load.loadUnit(file:/C:/Users/OMID/Desktop/TA/Chisel/Project_Leros/Leros/, ...) took 2959.3197ms
+[debug] Load.apply: load took 2979.931ms
+[debug] Load.apply: resolveProjects took 0.096ms
+[debug] Load.apply: finalTransforms took 48.4438ms
+[debug] Load.apply: config.delegates took 0.421ms
+[debug] Load.apply: Def.make(settings)... took 124.1234ms
+[debug] Load.apply: structureIndex took 34.3407ms
+[debug] Load.apply: mkStreams took 0.0035ms
+[info] set current project to PROJECT_NAME (in build file:/C:/Users/OMID/Desktop/TA/Chisel/Project_Leros/Leros/)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(notifyUsersAboutShell, None, None)
+[debug] > Exec(iflast shell, None, None)
+[debug] > Exec(idea-shell, None, None)

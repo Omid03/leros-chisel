@@ -1,0 +1,10 @@
+[
+  {
+    "class": "firrtl.transforms.DontTouchAnnotation",
+    "target": "~Leros|DataPath>io.MemWe"
+  },
+  {
+    "class": "firrtl.transforms.DontTouchAnnotation",
+    "target": "~Leros|Controller>io.MemWe"
+  }
+]

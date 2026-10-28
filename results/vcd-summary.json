@@ -1,0 +1,14 @@
+{
+  "method": "settled values at each rising clock edge; archived waveform only",
+  "vcd_sha256": "f0e1604df85ed219f386e3862ecc4bbfa6d42b06efc78120455530d50a4f03bb",
+  "timescale": "1 ns",
+  "last_timestamp_ns": 20046,
+  "rising_edges": 2005,
+  "reset_edges": 5,
+  "active_edges": 2000,
+  "terminal_pc_byte_address": 38,
+  "final_acc": 4,
+  "terminal_state_first_active_edge": 120,
+  "terminal_state_first_time_ns": 1241,
+  "terminal_state_held_to_last_sample_ns": 20041
+}
